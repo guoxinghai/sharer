@@ -1,0 +1,22 @@
+.fan_div{
+    float: left;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.fan_name_n{
+    margin-top: 15%;
+    font-size: 12px;
+}
+
+.btn-userLike_n{
+    margin-top: 2%;
+    margin-right:5%;
+    width: 50px;
+    height:28px;
+    float: right;
+}
+
+.user_panel :hover{
+    background: #999999;
+    cursor: pointer;
+}
